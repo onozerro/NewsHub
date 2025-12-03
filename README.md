@@ -6,7 +6,7 @@
   ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
   ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=for-the-badge)
   
-  <img src="n.png" width="200" alt="NewsHub Logo">
+  <img src="fav.png" width="200" alt="NewsHub Logo">
   
   **Современная платформа для публикации, чтения и обсуждения статей**
   
